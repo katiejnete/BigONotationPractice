@@ -1,0 +1,36 @@
+Step One
+1. O(n)
+2. O(n)
+3. O(1)
+4. O(n^3)
+5. O(n)
+6. O(n)
+7. O(n*log(n))
+8. O(2^n)
+9. O(1)
+10. O(n^2)
+
+Step Two
+logUpTo Time Complexity: O(n)
+logAtLeast10 Time Complexity: O(n)
+logAtMost10 Time Complexity: O(1)
+onlyElementsAtEvenIndex Time Complexity: O(n)
+subtotals Time Complexity: O(n^2)
+vowelCount Time Complexity: O(n)
+
+Part 3
+1. True
+2. True
+3. False
+4. .indexOf O(n)
+5. .includes O(n)
+6. .forEach O(n)
+7. .sort O(n log n)
+8. .unshift O(n)
+9. .push O(1)
+10. .splice O(n)
+11. .pop O(1)
+12. Object.keys() O(n)
+13. Space complexity Object.keys() O(n)
+
+
